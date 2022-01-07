@@ -3,7 +3,7 @@ Sentiment Analysis using logistic regression(from scratch).
 
 The goal is to perform sentiment analysis of hotel reviews.
 - Training data is in the form of positive and negative hotel reviews.
-
+ 
 **Features:**
 - There are 6 following features selected for this project:
 
